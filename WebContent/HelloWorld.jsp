@@ -5,6 +5,6 @@
 <title>Hello World</title>
 </head>
 <body>
-   Hello World, <s:property value="name"/>
+   Hello, <s:property value="name"/>
 </body>
 </html>
